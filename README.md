@@ -1,2 +1,2 @@
 # filechirp
-kewl
+Transfer files through sound. Coming soon...
